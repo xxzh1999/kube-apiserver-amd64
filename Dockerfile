@@ -1,0 +1,1 @@
+FROM gcr.iogoogle_containerskube-apiserver-amd64v1.10.0
